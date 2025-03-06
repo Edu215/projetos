@@ -1,4 +1,4 @@
-# Projeto de Recomendação Inteligente
+# Projeto 
 
 Este projeto tem como objetivo criar um sistema de recomendação inteligente que utiliza informações do cliente e suas interações com produtos para fornecer recomendações personalizadas.
 
